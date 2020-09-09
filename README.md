@@ -8,7 +8,7 @@ Very useful to self-generate knowledge, FAQs, external customer facing documenat
 ## See architecture diagram:
 
 
-![alt text](https://github.com/DanGOTO100/AI-Automatic-KnowledgeGenerator-and-SearchEngine/blob/master/AutoKnowledge-Architecture.pdf) 
+![alt text](https://github.com/DanGOTO100/AI-Automatic-KnowledgeGenerator-and-SearchEngine/blob/master/AutoKnowledge-Architecture.png) 
 
 
 
