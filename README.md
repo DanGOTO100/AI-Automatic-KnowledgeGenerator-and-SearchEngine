@@ -5,6 +5,10 @@ Finally, feeding an Enterprise Semantic Natural Language Search that can be part
 
 Very useful to self-generate knowledge, FAQs, external customer facing documenation natural search capabilities, etc..
 
-See architecture diagram and Lambda code attached.
+## See architecture diagram:
+
+
+![alt text](https://github.com/DanGOTO100/AI-Automatic-KnowledgeGenerator-and-SearchEngine/blob/master/AutoKnowledge-Architecture.pdf) 
+
 
 
